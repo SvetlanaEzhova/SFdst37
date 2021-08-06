@@ -1,7 +1,7 @@
 # ПРОЕКТ «АВИАРЕЙСЫ БЕЗ ПОТЕРЬ»
 ===============================================
 
-Ссылка на соревнование: [Поиск самых малоприбыльных рейсов из Анапы](https://docs.google.com/presentation/d/1ob7EeefcvAU4oVajAnFUwJsa-A1ihu6X/edit?usp=sharing&ouid=113177682178701184919&rtpof=true&sd=true)
+Ссылка на презентацию: [Поиск самых малоприбыльных рейсов из Анапы](https://docs.google.com/presentation/d/1ob7EeefcvAU4oVajAnFUwJsa-A1ihu6X/edit?usp=sharing&ouid=113177682178701184919&rtpof=true&sd=true)
 
 # Цели и задачи проекта
 Выяснить, от каких самых малоприбыльных рейсов из Анапы мы можем отказаться в зимнее время

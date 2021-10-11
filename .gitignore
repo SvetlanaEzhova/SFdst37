@@ -1,4 +1,7 @@
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
 **/*.csv
+**/*.txt
+**/module_5/catboost_info/
 !module_4/*.csv
+!module_5/*.csv

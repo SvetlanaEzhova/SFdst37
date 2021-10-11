@@ -1,10 +1,10 @@
 # ПРОЕКТ «КОМПЬЮТЕР ГОВОРИТ "НЕТ"»
 ===============================================
 
-Ссылки на kaggle 
-на соревнование: [[SF-DST] Credit Scoring](https://www.kaggle.com/c/sf-dst-scoring)
-на ноутбук: [[DSPR-41] SVE: Credit Scoring](https://www.kaggle.com/svetlanaezhova/dspr-41-sve-credit-scoring)
-автор: Svetlana Ezhova (https://www.kaggle.com/svetlanaezhova)
+Ссылки на kaggle <br> 
+на соревнование: [[SF-DST] Credit Scoring](https://www.kaggle.com/c/sf-dst-scoring) <br>
+на ноутбук: [[DSPR-41] SVE: Credit Scoring](https://www.kaggle.com/svetlanaezhova/dspr-41-sve-credit-scoring) <br>
+автор: [Svetlana Ezhova](https://www.kaggle.com/svetlanaezhova) <br>
 
 Достигнутая в соревновании метрика: 0.73908
 
@@ -56,7 +56,7 @@
 Возможно стоило попробовать работу в команде над проектом.
 
 ## Что интересного и полезного вы узнали в этом модуле?
-Гиперпараметры
+Гиперпараметры)))
 
 ## Что является вашим главным результатом при прохождении этого проекта?
 Готовый проект. 
